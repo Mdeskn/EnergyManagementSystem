@@ -23,8 +23,9 @@ October 2024
    - **LogFileManager**: Created methods for managing log files, including `createLogFile`, `deleteLogFile`, and `moveLogFile`, ensuring systematic handling and organization of log files.
    - **DataExchangeSimulation**: Simulated data exchange between energy stations and the system using byte streams, allowing for effective communication between components.
 
-2. **Maede Eskandari Borujerdi: Main**
-   - Developed the main user interface, implementing an interactive loop to manage user input and calls to other classes, handling options for log creation, viewing, simulation, and deletion.
+2. **Maede Eskandari Borujerdi: Main & GitHub Repository**
+   - **Main**: Developed the main user interface, implementing an interactive loop to manage user input and calls to other classes, handling options for log creation, viewing, simulation, and deletion.
+   - **GitHub Repository**: Created the project repository on GitHub and authored the README file to provide clear documentation for users and contributors.
 
 3. **Zahra Paya: DailyLogCreator**
    - Focused on generating daily logs through methods like `createDailyLog` and `createSystemLogs`, ensuring that logs are consistently formatted and created across all components of the system.
