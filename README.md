@@ -4,7 +4,20 @@
 Energy Management System
 
 ## Description:
-This project simulates an Energy Management System that manages log files for charging stations and energy sources. It allows users to create daily logs, view logs, simulate data exchange, and manage log files (create, delete, move).
+This project simulates an Energy Management System that manages log files for charging stations and energy sources. It allows users to create daily logs, view logs, simulate data exchange, and manage log files (create, delete, move). 
+
+### Project Requirements:
+1. **Create Metadata for Managing Log Files**:
+   - Implemented in the **LogFileManager** class with methods like `createLogFile`, `deleteLogFile`, and `moveLogFile` for systematic handling of log files.
+
+2. **Use Byte and Character Streams for Data Exchange**:
+   - Implemented in the **DataExchangeSimulation** class, utilizing byte streams to simulate data exchange between energy stations and the system.
+
+3. **Add Logs for Each Day for Charging Stations and Energy Sources**:
+   - Implemented in the **DailyLogCreator** class with methods such as `createDailyLog` and `createSystemLogs`, ensuring consistent log formatting.
+
+4. **Allow Users to Open Log Files Based on Equipment Name or Date**:
+   - Implemented in the **LogViewer** class with the `openLogFile` method, enabling users to view specific log files by equipment name or date.
 
 ## Version:
 1.0
@@ -20,18 +33,18 @@ October 2024
 
 ## Role Distribution:
 1. **Zahra Mahdion: LogFileManager & DataExchangeSimulation**
-   - **LogFileManager**: Created methods for managing log files, including `createLogFile`, `deleteLogFile`, and `moveLogFile`, ensuring systematic handling and organization of log files.
-   - **DataExchangeSimulation**: Simulated data exchange between energy stations and the system using byte streams, allowing for effective communication between components.
+   - **LogFileManager**: Developed methods for managing log files.
+   - **DataExchangeSimulation**: Simulated data exchange using byte streams.
 
 2. **Maede Eskandari Borujerdi: Main & GitHub Repository**
-   - **Main**: Developed the main user interface, implementing an interactive loop to manage user input and calls to other classes, handling options for log creation, viewing, simulation, and deletion.
-   - **GitHub Repository**: Created the project repository on GitHub and authored the README file to provide clear documentation for users and contributors.
+   - **Main**: Developed the main user interface and interactive loop for user input and functionality.
+   - **GitHub Repository**: Created the project repository and authored this README file.
 
 3. **Zahra Paya: DailyLogCreator**
-   - Focused on generating daily logs through methods like `createDailyLog` and `createSystemLogs`, ensuring that logs are consistently formatted and created across all components of the system.
+   - Focused on generating daily logs to ensure consistency and format across logs.
 
 4. **Vida Bahrami: LogViewer**
-   - Implemented functionalities for users to access specific log files with `openLogFile` and validate dates with `validateDate`, creating a user-friendly interface for viewing logs.
+   - Implemented functionalities for accessing log files and validating dates for a user-friendly interface.
 
 ## Instructions for Running the Project
 
@@ -60,4 +73,4 @@ Extract the ZIP file to a folder on your local machine, or find the cloned proje
 
 This project is developed for the Basic I/O and Regular Expressions Assignment for the Java pre-course by Dr. Prof. Galyna Tabunshchyk.
 
---- 
+---
