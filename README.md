@@ -57,3 +57,7 @@ Extract the ZIP file to a folder on your local machine, or find the cloned proje
 3. Follow the on-screen menu to create logs, view logs, simulate data exchange, or manage log files.
 
 ---
+
+This project is developed for the Basic I/O and Regular Expressions Assignment for the Java pre-course by Dr. Prof. Galyna Tabunshchyk.
+
+--- 
