@@ -46,6 +46,8 @@ October 2024
 4. **Vida Bahrami: LogViewer**
    - Implemented functionalities for accessing log files and validating dates for a user-friendly interface.
 
+## Instructions for Running the Project
+
 ### Step 1: Clone or Download the Project from GitHub
 Visit the GitHub repository containing the project. You can download the project by clicking the **Code** button and selecting **Download ZIP**, or clone the repository using the following command:
 
@@ -70,7 +72,6 @@ Extract the ZIP file to a folder on your local machine, or find the cloned proje
 ---
 
 This project is developed for the Basic I/O and Regular Expressions Assignment for the Java pre-course by Dr. Prof. Galyna Tabunshchyk.
-
 ## [Link to Video](https://fhdoprod-my.sharepoint.com/:v:/g/personal/maede_eskandariborujerdi001_stud_fh-dortmund_de/EapHIu2fUNdBmbPqlJ6yp8QBceMuAenpXBog_XjAHmiegw)
 
 ---
