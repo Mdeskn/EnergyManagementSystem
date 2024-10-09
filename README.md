@@ -46,10 +46,7 @@ October 2024
 4. **Vida Bahrami: LogViewer**
    - Implemented functionalities for accessing log files and validating dates for a user-friendly interface.
 
-## Link to Video:
-https://fhdoprod-my.sharepoint.com/:v:/g/personal/maede_eskandariborujerdi001_stud_fh-dortmund_de/EapHIu2fUNdBmbPqlJ6yp8QBceMuAenpXBog_XjAHmiegw
-
-## Instructions for Running the Project
+## [Link to Video:](https://fhdoprod-my.sharepoint.com/:v:/g/personal/maede_eskandariborujerdi001_stud_fh-dortmund_de/EapHIu2fUNdBmbPqlJ6yp8QBceMuAenpXBog_XjAHmiegw)
 
 ### Step 1: Clone or Download the Project from GitHub
 Visit the GitHub repository containing the project. You can download the project by clicking the **Code** button and selecting **Download ZIP**, or clone the repository using the following command:
